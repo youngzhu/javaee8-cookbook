@@ -1,4 +1,4 @@
-package com.youngzy.book.javaee8cookbook;
+package com.youngzy.book.javaee8cookbook.ch01;
 
 import org.junit.Before;
 import org.junit.Test;

@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>ch01-beanvalidation</module>
+        <module>ch01-jaxrs</module>
     </modules>
 
     <properties>
