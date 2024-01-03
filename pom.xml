@@ -12,6 +12,7 @@
         <module>ch01-beanvalidation</module>
         <module>ch01-jaxrs</module>
         <module>ch01-jsonp</module>
+        <module>ch01</module>
     </modules>
 
     <properties>
